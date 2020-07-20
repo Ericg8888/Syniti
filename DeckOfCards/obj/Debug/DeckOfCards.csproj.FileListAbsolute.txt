@@ -1,0 +1,4 @@
+C:\Users\Eric\source\repos\Syniti\DeckOfCards\bin\Debug\DeckOfCards.dll
+C:\Users\Eric\source\repos\Syniti\DeckOfCards\bin\Debug\DeckOfCards.pdb
+C:\Users\Eric\source\repos\Syniti\DeckOfCards\obj\Debug\DeckOfCards.dll
+C:\Users\Eric\source\repos\Syniti\DeckOfCards\obj\Debug\DeckOfCards.pdb
